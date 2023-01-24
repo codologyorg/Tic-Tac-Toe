@@ -31,7 +31,7 @@ public class Game{
 
   public boolean getWin(){
     return win;
-  }
+  } 
 
   public void setup(){
     System.out.println("What is player 1's name?");
